@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Which program code doesn’t need preprocessing before being run?",
+    "answer_1": "Text",
+    "answer_2": "Script",
+    "answer_3": "Both Text and Script",
+    "answer_4": " Comment",
+    "right_answer": "Script"
+  },
+
+  {
+    "title": "What is the significance of scripting?",
+    "answer_1": "Multiple loading",
+    "answer_2": "Load content by loading new document",
+    "answer_3": "Load content without loading new document",
+    "answer_4": "Repetitive loading",
+    "right_answer": "Load content without loading new document"
+  },
+  {
+    "title": "What is the purpose of XMLHttpRequest?",
+    "answer_1": "Multiple loading",
+    "answer_2": "Load content by loading new document",
+    "answer_3": "Load content without loading new document",
+    "answer_4": "Repetitive loading",
+    "right_answer": "Load content without loading new document"
+  },
+  {
+    "title": " Which API makes the user’s current location available to browser-based application?",
+    "answer_1": "Java API",
+    "answer_2": "SDL API",
+    "answer_3": "Object API",
+    "answer_4": "Geolocation API",
+    "right_answer": "Geolocation API"
+  },
+  {
+    "title": "Which of the following ensures additional interactivity mechanism?",
+    "answer_1": "WAI ARIA",
+    "answer_2": "Geolocation API",
+    "answer_3": "Object API",
+    "answer_4": "SDL API",
+    "right_answer": "WAI ARIA"
+  },
+  {
+    "title": " What is the necessity to have API?",
+    "answer_1": "Guide to performing activities",
+    "answer_2": "Describe particular task",
+    "answer_3": "Both performing activities and Describe particular task",
+    "answer_4": "Rearrangement of tasks",
+    "right_answer": "Describe particular task"
+  },
+  {
+    "title": "What is the purpose of the event onAirEvent?",
+    "answer_1": "Content is played",
+    "answer_2": "Content is transferred",
+    "answer_3": "Both Content is played and transferred",
+    "answer_4": "Content is changed",
+    "right_answer": "Content is played"
+  },
+  {
+    "title": "What is the purpose of the event disconnectionEvent?",
+    "answer_1": "Player demands for disconnection",
+    "answer_2": "Player disconnects from the channel",
+    "answer_3": "There is no user interaction",
+    "answer_4": "Player demands for reconnection",
+    "right_answer": "Player disconnects from the channel"
+  },
+  {
+    "title": "When does one use the event ready?",
+    "answer_1": "Before loading",
+    "answer_2": "During loading",
+    "answer_3": "After loading",
+    "answer_4": "During reloading",
+    "right_answer": "After loading"
+  },
+  {
+    "title": "When does one use the method startOverlays()?",
+    "answer_1": "Edit ad request",
+    "answer_2": "Delete ad request",
+    "answer_3": "Create ad request",
+    "answer_4": "Modify ad request",
+    "right_answer": "Create ad request"
+  }
+]
