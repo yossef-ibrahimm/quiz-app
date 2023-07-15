@@ -180,7 +180,7 @@ a 45,45 0 1,0 -90,0
   `;
 function onTimesUp() {
   clearInterval(timerInterval);
-  TIME_LIMIT = 105;
+  TIME_LIMIT = 60;
   timePassed = 0;
   timeLeft = TIME_LIMIT;
   btn.click();
